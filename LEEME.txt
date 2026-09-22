@@ -1,0 +1,18 @@
+SISTEMA DE PLANILLA
+
+El paquete contiene la aplicación web y la corrección del botón Editar.
+
+PARA GITHUB
+Extrae el ZIP y sube todos sus archivos al repositorio. index.html debe
+quedar en la raíz, junto a los archivos JS, MJS y CSS.
+El ZIP no se ejecuta directamente: primero hay que extraerlo.
+
+PARA VERLO EN TU COMPUTADORA
+Abre la carpeta en Visual Studio Code y ejecuta index.html con Live Server.
+La aplicación usa módulos JavaScript: abrir index.html con doble clic
+puede impedir que el navegador cargue los módulos.
+
+ALCANCE
+Los registros son temporales: se pierden al recargar o cerrar la página.
+ISSS y AFP automáticos; ISR manual. Parámetros académicos pendientes
+de validación normativa. No realiza pagos reales.
